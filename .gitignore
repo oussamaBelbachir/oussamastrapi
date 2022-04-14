@@ -3,6 +3,7 @@
 ############################
 
 .DS_Store
+
 .AppleDouble
 .LSOverride
 Icon
@@ -10,6 +11,7 @@ Icon
 .Trashes
 ._*
 
+package-lock.json
 
 ############################
 # Linux
